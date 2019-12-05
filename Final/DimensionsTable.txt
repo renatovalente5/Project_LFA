@@ -1,0 +1,6 @@
+Integer [int];
+Double [double];
+Distance [m];
+Time [s];
+Velocity = Distance / Time;
+Area = Distance * Distance;
